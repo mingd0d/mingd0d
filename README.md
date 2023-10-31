@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### About me✨
 A freshman majoring in engineering
 
-##### 📕 I'm learning
+##### 📕 I'm learning and using
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
