@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 <summary>🌍 English</summary>
 
 ## 📌 About Me
-- Major in **Computer Science**, Sookmyung Women's University (Mar 2024 ~ )  
-- Passionate about **web development and AI**  
-- I enjoy **turning ideas into code**, documenting my learning journey, and tackling challenges that stretch my skills  
+- Majoring in **Computer Science**, Sookmyung Women's University (Mar 2024 ~ )  
+- Being passionate about **web development and AI**  
+- Enjoying **turning ideas into code**, documenting my learning journey, and tackling challenges that stretch my skills  
 - Constantly exploring new tools, languages, and frameworks to grow as a versatile developer  
 
 ---
@@ -86,7 +86,7 @@ To become a developer who **creates practical and innovative solutions**, turnin
 
 ## 📌 自己紹介
 - **淑明女子大学 コンピュータ科学専攻** (2024年3月 ~ )  
-- **ウェブ開発とAI** に情熱を持つ  
+- **Web開発やAI分野** に高い関心と熱意がある
 - アイデアを**コードに変えること**、学習の記録、そして自分のスキルを広げる挑戦が好き  
 - 新しいツール・言語・フレームワークを絶えず学び、幅広い開発者を目指す  
 
